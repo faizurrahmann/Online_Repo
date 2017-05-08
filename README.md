@@ -1,2 +1,2 @@
 # Online_Repo
-Creating for Learning Purpose
+For this Threadfix, license is Mozilla Public License 2.0
